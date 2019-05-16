@@ -1,3 +1,5 @@
 # Circulate
 
-Experiment with [Svelte](https://svelte.dev).
+Experiment with [Svelte](https://svelte.dev)
+
+[Demo](https://bengladman.github.io/Circulate/)
